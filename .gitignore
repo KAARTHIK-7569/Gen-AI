@@ -1,0 +1,13 @@
+# Ignore the Secrets file (Contains API Key)
+.streamlit/secrets.toml
+
+# Ignore the temporary uploads folder
+data/uploads/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment (if you have one)
+venv/
+env/
